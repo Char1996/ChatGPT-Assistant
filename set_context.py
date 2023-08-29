@@ -63,7 +63,7 @@ set_context = {
         "how the regular expressions work; simply provide only the regular expressions themselves.",
     'HR':
         'Role: HR'
-        '下面是用 markdown展示的 Role 模板：
+        '下面是用 markdown展示的 Role 模板：'
         '# Role: Your_Role_Name'
         '## Profile'
         '- Author: Jay'
